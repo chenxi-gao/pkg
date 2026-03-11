@@ -5,16 +5,6 @@ Android MVP test build for discovering OpenClaw gateways on the local network an
 ## Files
 
 - `app-debug.apk` — latest debug build
-- `0.1.0-app-debug.apk` — initial build
-- `0.1.1-app-debug.apk` — permission/auth/safe-area/manual-gateway fixes
-- `0.1.2-app-debug.apk` — scrolling fix + cleartext LAN gateway access fix
-- `0.1.3-app-debug.apk` — gateway-compatible Android client id fix for connect validation
-- `0.1.4-app-debug.apk` — redesigned 3-step UX: discovery → connect → dashboard
-- `0.1.5-app-debug.apk` — dashboard sidebar + per-gateway remembered credentials + quick gateway switching
-- `0.1.6-app-debug.apk` — floating edge-tab sidebar that expands as overlay instead of squeezing content
-- `0.1.7-app-debug.apk` — gradient top navigation bar replaces sidebar; left menu dropdown + right gateway switcher
-- `0.1.8-app-debug.apk` — left overlay menu panel + cleaner top bar + gateway status dots + reconnecting refresh
-- `0.1.9-app-debug.apk` — fixes refresh showing offline before reconnect completes
-- `0.2.0-app-debug.apk` — restores per-gateway token settings and reconnect failure visibility
-- `0.2.1-app-debug.apk` — fixes reconnect loop behavior and moves status/error info to transient dialogs
+- `0.3.0-app-debug.apk` — adds session detail view, chat history view, session config surface, model list, and provider usage windows
+- older builds remain for comparison/testing
 - `SHA256SUMS.txt` — checksums
