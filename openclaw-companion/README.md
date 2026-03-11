@@ -5,7 +5,8 @@ Android MVP test build for discovering OpenClaw gateways on the local network an
 ## Files
 
 - `app-debug.apk` — latest debug build
-- `0.1.0-app-debug.apk` — versioned snapshot of the same build
+- `0.1.0-app-debug.apk` — initial build
+- `0.1.1-app-debug.apk` — build with permission/auth/safe-area/manual-gateway fixes
 - `SHA256SUMS.txt` — checksums
 
 ## MVP scope
@@ -15,7 +16,6 @@ Android MVP test build for discovering OpenClaw gateways on the local network an
 - Switch between multiple gateways
 - Connect to the selected gateway
 - Fetch and display `sessions.list`
-
-## Notes
-
-This is a debug APK intended for device testing.
+- Manual gateway entry (host/port/TLS)
+- Runtime discovery permission prompt
+- Safe-area aware top layout for status bar / camera cutout
