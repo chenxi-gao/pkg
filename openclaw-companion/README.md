@@ -16,4 +16,5 @@ Android MVP test build for discovering OpenClaw gateways on the local network an
 - `0.1.8-app-debug.apk` — left overlay menu panel + cleaner top bar + gateway status dots + reconnecting refresh
 - `0.1.9-app-debug.apk` — fixes refresh showing offline before reconnect completes
 - `0.2.0-app-debug.apk` — restores per-gateway token settings and reconnect failure visibility
+- `0.2.1-app-debug.apk` — fixes reconnect loop behavior and moves status/error info to transient dialogs
 - `SHA256SUMS.txt` — checksums
