@@ -1,2 +1,0 @@
-55bdeca4b6a774a4228fdfa3632b2ee0d714aa751b84e809e7b32fc61519fae2  app-debug.apk
-55bdeca4b6a774a4228fdfa3632b2ee0d714aa751b84e809e7b32fc61519fae2  0.1.0-app-debug.apk
