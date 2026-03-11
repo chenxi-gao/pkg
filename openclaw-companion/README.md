@@ -9,4 +9,5 @@ Android MVP test build for discovering OpenClaw gateways on the local network an
 - `0.1.1-app-debug.apk` — permission/auth/safe-area/manual-gateway fixes
 - `0.1.2-app-debug.apk` — scrolling fix + cleartext LAN gateway access fix
 - `0.1.3-app-debug.apk` — gateway-compatible Android client id fix for connect validation
+- `0.1.4-app-debug.apk` — redesigned 3-step UX: discovery → connect → dashboard
 - `SHA256SUMS.txt` — checksums
