@@ -11,4 +11,5 @@ Android MVP test build for discovering OpenClaw gateways on the local network an
 - `0.1.3-app-debug.apk` — gateway-compatible Android client id fix for connect validation
 - `0.1.4-app-debug.apk` — redesigned 3-step UX: discovery → connect → dashboard
 - `0.1.5-app-debug.apk` — dashboard sidebar + per-gateway remembered credentials + quick gateway switching
+- `0.1.6-app-debug.apk` — floating edge-tab sidebar that expands as overlay instead of squeezing content
 - `SHA256SUMS.txt` — checksums
